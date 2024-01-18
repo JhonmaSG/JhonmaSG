@@ -6,15 +6,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
 - 💻 A passionate developer &hearts
 - 🎓 Currently learning Development by Self
 - 📱 Personal website 'coming soon'<!--[link](https:)-->
 - 🌐 I’m currently open for an Intern or a new job opportunity
-<br>
+<br><br>
 <img alt="GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JhonmaSG&show_icons=true&theme=radical"/>
 
 <img alt="My Top Languages" align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonmaSG&layout=compact"/>
