@@ -27,7 +27,6 @@ https://jhonmasg.github.io/Portfolio.github.io/
   <img width="41%" src="https://github-readme-stats-dusky-one.vercel.app/api/top-langs/?username=JhonmaSG&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
 ## 🛠️ Languages & Tools
