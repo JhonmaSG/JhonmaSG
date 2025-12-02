@@ -22,11 +22,8 @@ https://jhonmasg.github.io/Portfolio.github.io/
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-dusky-one.vercel.app/api?username=JhonmaSG&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="41%" src="https://github-readme-stats-dusky-one.vercel.app/api/top-langs/?username=JhonmaSG&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonmaSG)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonmaSG)
+
 ---
 
 ## 🛠️ Languages & Tools
