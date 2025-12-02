@@ -22,7 +22,7 @@ https://jhonmasg.github.io/Portfolio.github.io/
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonmaSG)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonmaSG&show_icons=true&theme=tokyonight)
 
 ---
 
