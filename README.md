@@ -20,12 +20,14 @@
 
 ###
 
-<h2 align="left">🚀 About me</h2>
+<h2 align="left">- About me</h2>
 
 ###
 
-<p align="left">👉 **Visit my portfolio:**  
-  <br><a>https://jhonmasg.github.io/Portfolio.github.io/</a></p>
+<p align="left">- <strong>Visit my portfolio:</strong><br>
+  <a href="https://jhonmasg.github.io/Portfolio.github.io/">https://jhonmasg.github.io/Portfolio.github.io/</a>
+</p>
+
 
 ###
 
